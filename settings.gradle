@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':loginlib'
+include ':app'
+rootProject.name = "HostApplication"
